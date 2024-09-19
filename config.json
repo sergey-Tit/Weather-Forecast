@@ -1,0 +1,9 @@
+{
+  "cities" : [
+    {"name" : "Ulyanovsk", "days" : 2},
+    {"name" : "Saratov", "days" : 2},
+    {"name" : "Saint Petersburg", "days" : 1},
+    {"name" :  "San Francisco", "days" : 3}
+  ],
+  "frequency" : 20
+}
